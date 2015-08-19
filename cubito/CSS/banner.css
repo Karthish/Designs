@@ -1,0 +1,298 @@
+body {
+margin: 0px;
+padding: 0px;
+}
+.banner{
+	background-color: #F2F2F2;
+}
+.logo{
+	padding-top: 15px;
+margin-left: 88px;	
+float: left;
+}
+
+.clear{
+	clear: both;
+}
+.list_items
+{
+	list-style-type: none;
+	float: right;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  font-weight: bolder;
+}
+
+.list_items li {
+	float: left;
+	width: 128px;
+    margin-top: 7px;
+    font-weight: 10px;
+
+}
+
+.pic1 {
+	background: url("../HTML/cubito.png");
+  width: 100%;
+  height: 673px;
+  overflow: hidden;
+}
+.about_us {
+	padding: 70px 0px;
+  padding-top: 70px;
+  padding-right: 0px;
+  margin-left: 66px;
+}
+.about_us label {
+	font-size: 34px;
+	margin-left: -5px;
+	font-family: 'Open Sans', sans-serif;
+	  font-weight: 600;
+}
+
+.about_us_txt {
+width: 50%;
+float: left;
+margin-left: 66px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+
+}
+.about_us_pic {
+	float: left;
+	background: url("../HTML/aboutpic.png");
+	background-repeat: no-repeat;
+}
+.backimg {
+	background: url("../HTML/cubito.png");
+	width: 100%;
+	height: 50px;
+	overflow: hidden;
+}
+.solution {
+	margin-left: 66px;
+font-size: 34px;
+}
+.solution1 {
+	float: left;
+	width: 40%;
+	margin-left: 66px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+.solution2 {
+	float: right;
+	width: 50%;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+.vision {
+	margin-left: 66px;
+font-size: 34px;
+
+}
+.vision span {
+	margin-left: 94px;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.technology {
+	background-color: black;
+}
+.tech_label {
+	margin-left: 85px;
+	font-size: 16px;
+	color: white;
+}
+.tech_label label {
+	font-size: 34px;
+	margin-left: -7px;
+	font-family: 'Open Sans', sans-serif;
+	  font-weight: 600;
+}
+
+.tech_images {
+	margin-left: 202px;
+	color: white;
+}
+.img1 {
+	float: left;
+}
+.img1 img:first-child {
+      width: 203px;
+  margin: 21px;
+}
+.img1 label {
+	text-align: center;
+}
+.img2 {
+	float: left;
+	margin-top: 50px;
+  margin-left: 61px;
+}
+.img2 img:first-child {
+	width: 223px;
+  margin-left: -24px;
+
+}
+.img3 {
+	float: left;
+	margin-top: 50px;
+  margin-left: 61px;
+}
+.img3 img:first-child {
+	width: 216px;
+  margin-left: -24px;
+}
+.img4 {
+	float: left;
+	margin-top: 50px;
+  margin-left: 61px;
+}
+
+.img4 img:first-child {
+	width: 214px;
+  margin-left: -24px;
+}
+.tags {
+	color: white;
+	margin-left: 352px;
+	float: left;
+	margin-top: 40px;
+}
+
+.tags label {
+	margin-left: 70px;
+}
+
+.benefits_label {
+	margin-left: 85px;
+	font-size: 34px;
+}
+
+.benefits_label label {
+	margin-left: -12px;
+}
+
+.benefits_tag {
+	color: black;
+	  margin-left: 175px;
+	  font-size: 37px;
+  letter-spacing: 0px;
+  line-height: 32px;
+  text-transform: uppercase;
+}
+
+.benefits_tag input {
+  width: 123px;
+  height: 37px;
+  padding-left: 29px;
+}
+
+.benefits_numbs li {
+	list-style-type: none;
+	float: left;
+	width: 191px;
+  margin-left: 105px;
+  margin-top: 22px;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+.headings li {
+	list-style-type: none;
+	float: left;
+	width: 191px;
+  margin-left: 106px;
+  margin-top: -5px;
+  color: rgb(2,112,157);
+  font-size: 21px;
+  letter-spacing: -0.5px;
+  font-weight: bold;
+}
+.des li {
+float: left;
+list-style-type: none;
+}
+
+.media {
+	background: url("../HTML/cubito.png");
+	height: 659px;
+  width: 1348px;
+	background-repeat: no-repeat;
+}
+
+.contact_label {
+	margin-left: 85px;
+	font-size: 34px;
+	  margin-top: 48px;
+}
+.contact_label label {
+	margin-left: -9px;
+}
+.contact {
+	margin-left: 107px;
+	color: rgb(2,112,157);
+}
+.addr {
+	float: left;
+	width: 30%;
+}
+.addr h3 {
+font-size: 19px;
+  letter-spacing: 3px;
+  line-height: 18px;
+  text-transform: lowercase;
+  font-weight: bold;
+}
+.addr p {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+.find {
+	float: left;	
+}
+
+.find h3 {
+	font-size: 19px;
+  letter-spacing: 3px;
+  line-height: 18px;
+  text-transform: lowercase;
+  font-weight: bold;
+}
+.addr img {
+	width: 15px;
+}
+.find img {
+	width: 30px;
+	margin-left: -2px;
+}
+#fst {
+	width: 52px;
+  margin-bottom: 16px;
+  margin-right: -12px;
+}
+#sec {
+	width: 36px;
+	margin-bottom: 18px;
+}
+#third {
+      width: 31px;
+  margin-bottom: 28px;
+}
+.copyrights {
+	background-color: rgb(2,112,157);
+	height: 30px;
+	color: white;
+	width: 100%;
+}
+
+.copyrights label {
+	margin-left: 67px;
+}

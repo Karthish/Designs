@@ -1,0 +1,613 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #e9eaed;
+}
+
+.banner {
+background-color: #3a5795;
+border-bottom: 1px solid #133783;
+
+}
+
+.sub-banner {
+	width: 1184px;
+	margin: 0 auto;
+}
+
+.left-banner {
+	  display: inline-block;
+	  background-color: 
+}
+
+.right-banner {
+	display: inline-block;
+}
+.clear {
+clear: both;
+}
+
+.banner_img {
+display: inline-block;
+  margin-left: 0px;
+  margin-top: 8px;
+}
+
+.banner_img img {
+width: 42px;
+}
+
+.search_bar {
+	display: inline-block;
+}
+
+.search_bar input {
+	margin-bottom: -11px;
+	width: 436px;
+	height: 25px;
+  line-height: 39.6px;
+  border-radius: 5px;
+}
+
+.profile_pic {
+  display: inline-block;
+}
+
+.profile_pic img {
+	width: 16px;
+  margin-bottom: 3px;
+  margin-left: 145px;
+}
+
+.profile_pic span {
+	color: white;
+display: inline-block;
+  position: relative;
+  top: -10px;
+
+  font-family: helvetica, arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 3px;
+}
+
+.home {
+		color: white;
+display: inline-block;
+	font-family: helvetica, arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  position: relative;
+  top: -10px;
+  margin-left: 11px;
+}
+
+
+.notification1 {
+	background-image: url("../images/notification.png");
+    background-position: -1px -213px;
+    width: 20px;
+    height: 23px;
+    margin-top: 13px;
+    margin-left: 20px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.notification2 {
+	background-image: url("../images/notification.png");
+    background-position: -4px -383px;
+    width: 23px;
+    height: 23px;
+    margin-top: 13px;
+    margin-left: 7px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+.notification3 {
+	background-image: url("../images/notification.png");
+    background-position: -4px -767px;
+    width: 23px;
+    height: 23px;
+    margin-top: 13px;
+    margin-left: 7px;
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+.body {
+	 
+  background-color: #e9eaed;
+  color: #141823;
+}
+
+.sub-body {
+	  width: 1184px;
+  margin: 0 auto;
+}
+
+.first-col {
+	padding-left: 8px;
+  padding-top: 13px;
+  width: 164px;
+  line-height: 1.34;
+  font-family: helvetica, arial, sans-serif;
+  color: #141823;
+  font-size: 13px;
+  float: left;
+}
+
+.dp {
+	float: left;
+}
+.dp img {
+width: 16px;
+}
+
+.dp-name {
+	display: inline-block;
+	    margin-left: 8px;
+}
+
+.edit {
+ float: left;
+}
+
+.edit img {
+width: 17;
+    margin-left: -17px;
+    margin-top: 27px;
+}
+
+.edit-name {
+    margin-top: 12px;   
+}
+
+.edit-name span {
+	margin-left: 8px;
+	font-family: helvetica, arial, sans-serif;	
+	font-size: 13px;
+}
+
+.favor {
+	color: #9197a3;
+    font-size: 11px;
+    font: antialiased;
+    margin-top: 13px;
+    font-weight: bold;
+}
+
+.feed img {
+	width: 18px;
+    margin-top: 8px;
+    display: inline-block;
+}
+
+.feed span {
+	margin-left: 2px;
+}
+
+.msg img {
+width: 20px;
+    margin-top: 5px;
+}
+
+.msg span {
+	margin-left: 2px;
+    float: right;
+    margin-right: 81px;
+    margin-top: 6px;
+}
+
+.events img {
+	width: 20px;
+    margin-top: 5px;
+}
+
+.events span {
+	    float: right;
+    margin-right: 100px;
+    margin-top: 5px;
+}
+
+.groups{
+	color: #9197a3;
+    font-size: 11px;
+    font: antialiased;
+    margin-top: 13px;
+    font-weight: bold;
+}
+
+.grp-con ul {
+	list-style-type: none;
+    padding: 0px;
+}
+
+.apps-name {
+	color: #9197a3;
+    font-size: 11px;
+    font: antialiased;
+    margin-top: 13px;
+    font-weight: bold;
+}
+
+.apps ul {
+	padding: 0px;
+	list-style-type: none;
+}
+
+.frd-label {
+	color: #9197a3;
+    font-size: 11px;
+    font: antialiased;
+    margin-top: 13px;
+    font-weight: bold;
+}
+.icons {
+	background-image: url("https://fbstatic-a.akamaihd.net/rsrc.php/v2/yy/r/rUoyAuWhiA3.png");
+    background-repeat: no-repeat;
+}
+
+.friends-icon1{
+	background-image: url("https://fbstatic-a.akamaihd.net/rsrc.php/v2/yy/r/rUoyAuWhiA3.png");
+	background-position: 0px -444px;
+    width: 12%;
+    height: 19px;
+    margin-top: 10px;
+     background-repeat: no-repeat;
+     float: left;
+
+}
+
+.iei {
+	float: right;
+	    margin-top: 14px;
+    margin-right: 127px;
+}
+.friends-icon2 {
+	background-position: 0px -412px;
+    width: 12%;
+    height: 17px;
+    margin-top: 7px;
+    float: left;
+}
+.cbe {
+float: left;
+margin-top: 6px;
+}
+
+.page-label {
+	color: #9197a3;
+    font-size: 11px;
+    font: antialiased;
+    margin-top: 13px;
+    font-weight: bold;
+}
+
+.pg-feed {
+	    background-position: 0px -291px;
+    width: 12%;
+    height: 19px;
+    margin-top: 8px;
+    float: left;
+}
+
+.feed-name {
+margin-top: 10px;
+}
+
+.new-pg {
+background-position: 0px -143px;
+    width: 12%;
+    height: 12px;
+    margin-top: 4px;
+float: left;
+}
+.fd-name{
+margin-top: 12px;
+}
+.clear {
+	clear: both;
+}
+
+
+.middle-col {
+	float: left;
+	width: 470px;
+	padding: 4px  2px;
+	padding-left: 31px;
+	font-family: helvetica, arial, sans-serif;
+	line-height: 16px;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.status-box {
+	width: 470px;
+	height: 158px;
+	background-color: white;
+	margin-top: 11px;
+}
+
+.update-status {
+	background-image: url("https://fbstatic-a.akamaihd.net/rsrc.php/v2/y0/r/G9i1Y8yTEaY.png");
+	background-position: 0px -141px;
+    width: 18px;
+    height: 19px;
+    margin-top: 13px;
+    margin-left: 10px;
+     background-repeat: no-repeat;
+     float: left;
+}
+
+.up-status {
+	    /*display: inline-block;*/
+    margin-top: 16px;
+    margin-left: 4px;
+    float: left;
+}
+
+.add-photos {
+
+}
+
+.add-photos {
+	background-image: url("https://fbstatic-a.akamaihd.net/rsrc.php/v2/y0/r/G9i1Y8yTEaY.png");
+    background-position: -17px -125px;
+    width: 18px;
+    height: 19px;
+    margin-top: 13px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.add-photos-name {
+	display: inline-block;
+    margin-top: 16px;
+    margin-left: 4px;
+    float: left;
+}
+
+.album {
+	background-image: url("../images/album.png");
+    background-position: -17px -895px;
+    width: 18px;
+    height: 23px;
+    margin-top: 9px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.album-name {
+display: inline-block;
+    margin-top: 16px;
+    margin-left: 4px;
+}
+
+.status-box hr {
+	opacity: .4;
+    margin-top: 7px;
+    width: 448px;
+}
+
+.profile-pic-con {
+	display: inline-block;
+	margin-top: -7px;
+}
+
+.profile-pic-con img {
+    width: 38px;
+    padding-left: 12;
+    padding-top: 5px;
+    margin-bottom: -21px;
+}
+
+.profile-pic-con input {
+    width: 377px;
+    height: 74px;
+    border: 0px solid;
+    background-color: transparent;
+        margin-left: 7px;
+}
+
+.status-botttom {
+	display: inline-block;
+}
+
+.cam {
+	background-image: url("../images/album.png");
+    background-position: -11px -12px;
+    width: 18px;
+    height: 19px;
+    margin-top: 2px;
+    margin-left: 10px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.tag {
+	background-image: url("../images/status-bottom.png");
+    background-position: -11px -331px;
+    width: 18px;
+    height: 19px;
+    margin-top: 2px;
+    margin-left: 25px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.smiley {
+	background-image: url("../images/status-bottom.png");
+    background-position: -11px -249px;
+    width: 18px;
+    height: 19px;
+    margin-top: 2px;
+    margin-left: 25px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.location {
+	background-image: url("../images/status-bottom.png");
+    background-position: -11px -170px;
+    width: 18px;
+    height: 19px;
+    margin-top: 2px;
+    margin-left: 25px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.post-status input {
+	width: 61px;
+    height: 23px;
+    float: right;
+    background-color: #4e69a2;
+    border-color: #435a8b #3c5488 #334c83;
+    margin-top: -20px;
+    margin-right: 16px;
+    color: white;
+    font-size: 12px;
+    font-family: helvetica, arial, sans-serif;
+    font-weight: bold;
+}
+
+.post {
+width: 337px;
+margin-top: 20px;
+}
+
+.post-one {
+/*height: 494px;*/
+width: 446px;
+background-repeat: no-repeat;
+background-color: white;
+padding: 12px;
+    font-weight: bold;
+    line-height: 1.38px;
+    font-size: 12px;
+    font-family: helvetica, arial, sans-serif;
+    color: #3b5998;
+}
+
+.shared-profile-pic {
+	background-image: url("../images/karthi.png");
+	width: 41px;
+    height: 41px;
+    /*display: inline-block;*/
+    float: left;
+}
+
+.shared-person span {
+color: #9197a3;
+ margin-left: 4px;
+}
+
+.shared-person p span
+{
+	margin-left: 11px;
+    float: left;
+    color: #3b5998;
+} 
+
+.updated-time span {
+color: #9197a3;
+    float: left;
+    margin-top: 19px;
+    font-size: 9px;
+    margin-left: 10px;
+}
+
+.globe {
+	background-image: url("../images/globe.png");
+	height: 17px;
+    width: 20px;
+    background-position: -41px -75px;
+    margin-top: 12px;
+    margin-left: 2px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.shared-img img {
+  width: 446px;
+  margin-top: 12px;
+}
+
+.shared-heading span {
+	color: #3b5998;
+	font-weight: bold;
+    margin-top: 21px;
+    float: left;
+    margin-left: -7px;
+}
+
+.shared-con {
+margin-top: 25px;
+color: #9197a3;
+font-family: helvetica, arial, sans-serif;
+font-size: 12px;
+}
+.post hr {
+    margin-top: -19px;
+    opacity: .4;
+    width: 100%;
+}
+
+.like {
+	background-image: url("../images/like.png");
+    height: 20;
+    width: 15px;
+    background-position: -16px -187px;
+    margin-top: 4px;
+    margin-left: 2px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.like-name {
+	color: #9197a3;
+	font-family: helvetica, arial, sans-serif;
+font-size: 12px;
+margin-left: 22px;
+margin-top: 11px;
+}
+.comment {
+	background-image: url("../images/like.png");
+    height: 15px;
+    width: 15px;
+    background-position: 0px -187px;
+    margin-top: -15px;
+    margin-left: 54px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.comment-name {
+color: #9197a3;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 12px;
+    margin-left: 91px;
+    margin-top: -15px;	
+}
+
+.share {
+	background-image: url("../images/share.png");
+    height: 13px;
+    width: 15px;
+    background-position: -44px -189px;
+    margin-top: -14px;
+    margin-left: 153px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.share-name {
+	color: #9197a3;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 12px;
+    margin-left: 189px;
+    margin-top: -15px;
+}
